@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NearBuy</string>
+    <string name="txt_welcome">Bem-vindo ao NearBuy</string>
+    <string name="txt_features_description">Nós temos muitos recursos como carrinho de compras, mapa e mensagens para você neste aplicativo. Você pode aproveitar no app.</string>
+    <string name="txt_btn_login">Entrar</string>
+    <string name="txt_btn_sign_up">Criar conta</string>
+    <string name="txt_title">Entre com a sua conta</string>
+    <string name="hint_edt_email">Email</string>
+    <string name="hint_edt_password">Senha</string>
+    <string name="txt_sign_up_title">Cadastre-se</string>
+    <string name="edt_hint_name">Nome</string>
+    <string name="edt_sign_up_confirm_password">Confirme sua senha</string>
+    <string name="txt_greetings">Olá, Lucas</string>
+    <string name="txt_email">lucassilva@gmail.com</string>
+    <string name="ic_txt_shopping">Compras</string>
+    <string name="ic_txt_map">Endereço</string>
+    <string name="txt_ic_inbox">Mensagens</string>
+    <string name="ic_txt_settings">Configurações</string>
+    <string name="ic_txt_favorite">Favoritos</string>
+    <string name="ic_txt_log_out">Sair</string>
+</resources>
